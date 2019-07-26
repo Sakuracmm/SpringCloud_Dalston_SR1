@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-provider-dept-hystrix-8001" />
+        <module name="microservice-eureka-7003" />
+        <module name="microservice-eureka-7002" />
+        <module name="microservice-eureka-7001" />
+        <module name="microservice-consumer-hystrix-dashboard" />
+        <module name="microservicecloud-consumer-dept-80" />
+        <module name="microservicecloud-consumer-feign" />
+        <module name="microservicecloud-config-3344-App" />
+        <module name="microservice-provider-dept-8003" />
+        <module name="microservice-provider-dept-8002" />
+        <module name="microservice-provider-dept-8001" />
+        <module name="microservicecloud-config-eureka-client-7001" />
+        <module name="microservicecloud-config-dept-client-8001" />
+        <module name="microservice-api" />
+        <module name="microservicecloud-config-client-3355" />
+        <module name="microservice-zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-provider-8003" target="1.8" />
+      <module name="microservicecloud-consumer-dept-feign" target="1.8" />
+      <module name="microservicecloud-provider-dept-hystrix-8001" target="1.8" />
+      <module name="xx" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
